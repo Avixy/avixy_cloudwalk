@@ -1,0 +1,3 @@
+[submodule "around_the_world"]
+	path = around_the_world
+	url = git@github.com:Avixy/around_the_world.git
