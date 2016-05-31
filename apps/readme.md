@@ -1,0 +1,1 @@
+This folder should hold the user applications. Eg. the cloudwalk api application and scripts

@@ -1,3 +1,9 @@
 [submodule "around_the_world"]
 	path = around_the_world
 	url = git@github.com:Avixy/around_the_world.git
+[submodule "apps/cloudwalk-device-test-3400"]
+	path = apps/cloudwalk-device-test-3400
+	url = git@gitlab.avixy:avixy-sdk-dev/cloudwalk-device-test-3400.git
+[submodule "apps/emv-sample"]
+	path = apps/emv-sample
+	url = https://github.com/cloudwalkio/emv-sample.git
